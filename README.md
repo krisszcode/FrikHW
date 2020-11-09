@@ -7,7 +7,7 @@
 3. Go to localhost/phpmyadmin.
 4. Create a new database with name "frik" utf8_general_ci encode type.
 
-### First task
+### First
 1. run php -S localhost:{your port}
 2. You must submit an url.
 
