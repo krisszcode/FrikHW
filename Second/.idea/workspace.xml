@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="616bd882-2db9-4e44-98d7-cecfe5cdef2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CCMessenger/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Events/MessageSent.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Events/MessageSent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/ChatsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/ChatsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/Message.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/Message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/resources/js/components/ChatsComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/resources/js/components/ChatsComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/resources/views/chats.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/resources/views/chats.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCMessenger/vendor/laravel/ui/auth-backend/RegistersUsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/CCMessenger/vendor/laravel/ui/auth-backend/RegistersUsers.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/CCMessenger/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/beyondcode/laravel-websockets" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/ringcentral/psr7" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/composer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/clue/buzz-react" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/http-client" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/react/promise-stream" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/CCMessenger/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k3NggytBFqPR3ARZAtfnIUSJ7u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616bd882-2db9-4e44-98d7-cecfe5cdef2d" name="Default Changelist" comment="" />
+      <created>1604925428548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604925428548</updated>
+      <workItem from="1604925430466" duration="999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

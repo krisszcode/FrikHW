@@ -1,0 +1,23 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+/*li {
+    list-style-type: none;
+
+    &#active-users::before{
+        content: "• ";
+        color: green;
+    }
+}
+*/
+
+ul {
+    list-style-type: none;
+}
